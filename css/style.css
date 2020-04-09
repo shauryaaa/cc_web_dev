@@ -408,5 +408,25 @@ display: inline-block;
   font-weight: bold;
   padding: 10px 30px
 }
+@media screen and (max-width: 500px) {
+  .container {
+      width: 95%;
+      height: 100%;
+  }
+ 
+  .body {
+      margin-right: -160px;
+  }
+}
+  @media screen and (max-width: 800px) {
+      .container{
+          width: 95%;
+          height: 100%;
+      }
+    
+      .body {
+          margin-right: -160px;
+      }
+  }
 
 /* End My Framework */
