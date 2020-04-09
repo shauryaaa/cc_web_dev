@@ -10,7 +10,7 @@ body {
 /* end Main Rules */
 /* start Header */
 .header .slider { 
-  background: url(../img/slider1.jpg) style="width:100%";
+  background: url(../img/slider1.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
