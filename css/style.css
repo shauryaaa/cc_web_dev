@@ -45,6 +45,9 @@ body {
   background-color: #353a3b;
   color: #ffffff;
   overflow: hidden;
+  position:fixed;
+  top: 0;
+  width: 100%;
 }
 .header .navbar h2 {float: left; text-transform: uppercase;}
 .header .navbar h2 span {color: #5190c3;}
@@ -68,6 +71,7 @@ body {
 .header .navbar ul li a:hover {
   color: #5190c3;
 }
+
 /* Start Features */
 .features {
   overflow: hidden;
